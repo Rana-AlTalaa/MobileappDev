@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_hub_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnContinue
+id btnFinish
+id button_continue
+id checkBox
+id editTextAge
+id editTextEmail
+id editTextName
+id fragment_container
+id frameLayout
+id frameLayout2
+id imageView
+id textName
+id textView
+id textView2
+layout activity_main
+layout fragment_1
+layout fragment_2
+layout fragment_3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
